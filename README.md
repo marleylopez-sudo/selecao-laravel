@@ -18,7 +18,7 @@ Este projeto recria a experiência clássica de “**Character Select Screen**�
 
 ---
 
-## Tecnologias (cards)
+## Tecnologias
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Este projeto recria a experiência clássica de “**Character Select Screen**�
 
 ---
 
-## Frames visuais (imagens no README)
+## Frames visuais 
 
 > As imagens abaixo são **exemplos de caminhos**. Coloque seus prints dentro de `docs/` e mantenha os mesmos nomes para aparecerem automaticamente aqui.
 
