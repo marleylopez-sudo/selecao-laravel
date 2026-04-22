@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -197,3 +198,6 @@ Caso existam referências visuais/temáticas, elas são utilizadas **somente com
 
 **Jhonatan** — `@jhonatandev01`
 >>>>>>> 849bfd4d2afb79abe0cbecf0f04ec2f8e727c821
+=======
+# selecao-laravel
+>>>>>>> a6a90090e6727bda4acc322f57594947d6aee52b
